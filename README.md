@@ -230,20 +230,20 @@ npm run lint         # Ejecuta ESLint
 ## 📝 Uso de la Aplicación
 
 ### Crear Cliente
-1. Clic en "Nuevo Cliente"
+1. Click en "Nuevo Cliente"
 2. Completar formulario (nombre* y email* son obligatorios)
-3. Clic en "Crear Cliente"
+3. Click en "Crear Cliente"
 
 ### Editar Cliente
-1. Clic en el ícono de editar (lápiz) en la fila del cliente
+1. Click en el ícono de editar (lápiz) en la fila del cliente
 2. Modificar campos necesarios
-3. Clic en "Guardar Cambios"
+3. Click en "Guardar Cambios"
 
 ### Cambiar Estado
-- Clic en el ícono de power para alternar entre activo/inactivo
+- Click en el ícono de power para alternar entre activo/inactivo
 
 ### Eliminar Cliente
-1. Clic en el ícono de eliminar (papelera)
+1. Click en el ícono de eliminar (papelera)
 2. Confirmar eliminación en el diálogo
 
 ### Buscar y Filtrar
@@ -266,7 +266,7 @@ VITE_SUPABASE_PROJECT_ID=your_project_id
 ## 🚀 Despliegue
 
 ### Con Lovable
-1. Clic en "Publish" en la esquina superior derecha
+1. Click en "Publish" en la esquina superior derecha
 2. Tu app estará en vivo automáticamente
 
 ### Otros Proveedores
